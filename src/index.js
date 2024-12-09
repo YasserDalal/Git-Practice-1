@@ -1,2 +1,2 @@
 console.log('Lucero');
-console.log('Castillo 1');
+console.log('Castillo 2');
